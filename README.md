@@ -13,3 +13,11 @@ Congrats! Your project is now in your github account and ready for the world to 
 
 # Student Name Portfolio
 Update the title for this section to be your name and Portfolio. Replace this example text with a one paragraph description of your experience with software engineering (classes you have taken, open-sources projects you have worked on, or personal projects you have taken on). Give a brief description of the programming languages you are familiar with and what languages exist in this repository.
+
+## Project1
+Add the link to your project folder by updating this link to reference the README file for your project folder. Also update the Project1 title to reflect the correct project name.
+[Project1](Project1Title/README.md)
+
+## Project2
+Add the link to your project folder by updating this link to reference the README file for your project folder. Also update the Project1 title to reflect the correct project name.
+[Project2](Project2Title/README.md)
